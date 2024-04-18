@@ -48,7 +48,7 @@ export function Footer() {
       </div>
       <div className="ftr-body">
         © 2023 Copyright:
-        <Link href="/TnC/">Krsp Solutions</Link>
+        <Link href="/TnC/">Optum Global Advantage</Link>
       </div>
     </footer>
   );

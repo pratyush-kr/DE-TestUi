@@ -1,5 +1,5 @@
 import { Header } from "@/components/Header";
-import styles from "@/styles/Home.module.css";
+import styles from "@/styles/pages/Home.module.css";
 import { Footer } from "@/components/Footer";
 import { LandingPage } from "@/components/LandingPage";
 
